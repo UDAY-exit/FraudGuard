@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FraudGuard</string>
+    <string name="login_title">Sign In</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_analyze">Analyze Message</string>
+    <string name="btn_next_sms">Next SMS</string>
+    <string name="btn_view_history">View History</string>
+    <string name="btn_analyze_another">Analyze Another</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="sms_detection_title">SMS Detection</string>
+    <string name="result_title">Analysis Result</string>
+    <string name="history_title">Message History</string>
+    <string name="fraud_detected">⚠ FRAUD DETECTED</string>
+    <string name="safe_message">✓ SAFE MESSAGE</string>
+    <string name="total_analyzed">Total Analyzed</string>
+    <string name="fraud_detected_label">Fraud Detected</string>
+    <string name="safe_messages">Safe Messages</string>
+    <string name="fraud_rate">Fraud Rate</string>
+    <string name="empty_history">No messages analyzed yet.\nGo to SMS Detection to analyze messages.</string>
+    <string name="demo_credentials">Demo: admin@fraudapp.com / admin123</string>
+
+    <!-- Added for Result screen (to remove hardcoded string warnings) -->
+    <string name="analyzing">ANALYZING...</string>
+    <string name="fraud_probability">Fraud Probability</string>
+    <string name="zero_percent">0%</string>
+    <string name="message_details">Message Details</string>
+    <string name="sender_label">Sender: </string>
+    <string name="time_label">Time: </string>
+    <string name="message_content_label">Message Content:</string>
+    <string name="result_icon_description">Result icon</string>
+</resources>

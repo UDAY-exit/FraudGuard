@@ -1,0 +1,2 @@
+-keep class com.github.mikephil.charting.** { *; }
+-keep class com.example.fraudapp.model.** { *; }
